@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Anto",
+        "nomor": "042413543",
+        "email": "anto@gmail.com",
+        "jurusan": "Teknik Hukum",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Doddy",
+        "nomor": "038391303",
+        "email": "doddy@gmail.com",
+        "jurusan": "Teknik Pangan",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Erik",
+        "nomor": "044857193",
+        "email": "erik@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 3
+    }
+]
